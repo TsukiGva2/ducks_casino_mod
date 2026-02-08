@@ -1,0 +1,13 @@
+{
+    "id": "Ducks",
+    "name": "Ducks Mod",
+    "author": ["tsukigva2"],
+    "description": "Ducks.",
+    "prefix": "duck",
+    "main_file": "Ducks.lua",
+    "badge_colour": "6C3BAA",
+    "dependencies": [
+        "Steamodded (>=1.0.0~ALPHA-1225a)"
+    ],
+    "version": "1.0.0"
+}
